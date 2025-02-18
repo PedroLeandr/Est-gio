@@ -8,3 +8,5 @@
 12/02 - Concurso do Tecla;
 13/02 - Criação do WebSite da Prodigital Key em WordPress;
 14/02 - Criação do WebSite da Prodigital Key em WordPress;
+17/02 - Planilha de excel de todas as cidades de Portugal;
+18/02 - Planilha de excel de todas as cidades de Portugal;
